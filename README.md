@@ -26,6 +26,3 @@ Línea azul: Tiempos de búsqueda lineal
 Línea roja discontinua: Tiempos de búsqueda binaria
 Eje X: Tamaños de lista (escala logarítmica)
 Eje Y: Tiempo promedio en milisegundos
-
-New chat
-Message DeepSeek
