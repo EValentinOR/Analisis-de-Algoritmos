@@ -1,0 +1,9 @@
+﻿1.Que es lbl.pack(pady=10) ?? , para que sirve, y que otros elementos (ademas de lbl, label se pueden agregar a la ventana de tkinter)
+2.Que otros elementos (argumentos) puede tener root.title("Mi primera GUI")
+3.Explique para que es y como usar
+ tk.Entry(root) 
+btn = tk.Button(root, text="Saludar", command=saludar)
+
+1.El lbl.pack sirve para dar el espaciado del texto y podemos agregar el bg para cambiar el color del fondo
+2. Cadenas y números
+
